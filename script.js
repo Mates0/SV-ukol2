@@ -1,3 +1,4 @@
+// Převod z dvojkové soustavy do desítkové
 const binaryNumber = "101010";
 const decimalNumber = binaryToDecimal(binaryNumber);
 function binaryToDecimal(binary) {
